@@ -3,7 +3,7 @@ import * as React from 'react'
 
 const Logo = (props) => (
   <svg
-    xmlns='http://www.w3.org/2000/svg'
+    xmlns='https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F27ec269a-9947-441e-9e43-ed6a65140893%2Favatar_png.png?table=block&id=f4ca1923-6a1e-4a71-b985-55689ddbe322'
     width='24'
     height='24'
     viewBox='0 0 100 100'
